@@ -3,11 +3,11 @@ import Counter from './components'; // Import the specific component you want to
 
 function App() {
   return (
-    <div className="App">
+    <div className ="App">
         
         <Counter />
     </div>
   );
 }
-
-export default App;
+//for merge conflict
+export default  App;
