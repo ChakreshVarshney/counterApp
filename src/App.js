@@ -10,6 +10,7 @@ function App() {
     </div>
   );
 }
-//for merge conflict
+
 
 export default  App;
+//for merge conflict
