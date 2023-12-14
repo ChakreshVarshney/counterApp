@@ -11,5 +11,5 @@ function App() {
   );
 }
 
-//for merge conflict
 export default  App;
+//for merge conflict
